@@ -25,3 +25,5 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=nakamurachizuru1010-ship-it&theme=gruvbox)
+
+![](https://raw.githubusercontent.com/nakamurachizuru1010-ship-it/nakamurachizuru1010-ship-it/output/github-contribution-grid-snake.svg)
